@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\bin\Debug\net10.0\gamesnake.exe
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\bin\Debug\net10.0\gamesnake.deps.json
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\bin\Debug\net10.0\gamesnake.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\bin\Debug\net10.0\gamesnake.dll
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\bin\Debug\net10.0\gamesnake.pdb
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.dll
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\refint\gamesnake.dll
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.pdb
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\gamesnake.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\csharp\gamesnake\gamesnake\obj\Debug\net10.0\ref\gamesnake.dll
